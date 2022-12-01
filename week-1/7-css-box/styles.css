@@ -4,3 +4,7 @@
   border-radius: 4px;
   background: #fff;
 }
+
+.country {
+  border: 10px solid rgb(252, 250, 250);
+}
